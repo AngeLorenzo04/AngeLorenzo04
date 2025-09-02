@@ -1,12 +1,16 @@
-# 👋 HI WELCOME
+# 👋 Hi there, I'm Lorenzo
 
-## I'am a computer science student at UNIMORE 🇮🇹
+🎓 I'm a Computer Engineering student at **Unimore** (University of Modena and Reggio Emilia).  
+💻 Passionate about software development, algorithms, and problem solving.  
+🚀 Always curious to learn new technologies and improve my skills.
 
-## 📊 My GitHub stats
+---
+
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeLorenzo04&show_icons=true&theme=tokyonight)
 
-## 💻 Langs
+## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLorenzo04&layout=compact&theme=tokyonight)
 
-## 🐍 Snake of contributions
-![snake gif](https://github.com/AngeLorenzo04/AngeLorenzo04/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/AngeLorenzo04/AngeLorenzo04/output/github-contribution-grid-snake.svg)
