@@ -7,7 +7,7 @@
 - 🎓 Studying **Computer Engineering** at [Unimore](https://www.unimore.it/)  
 - 💡 Interested in **software development, algorithms, AI and systems**  
 - 🚀 Always looking for new challenges and opportunities to grow  
-- 📫 How to reach me: **(your email / LinkedIn link here)**  
+- 📫 How to reach me: **([Linkedin](www.linkedin.com/in/angelo-lorenzo-di-candia-92497b330))**  
 
 ---
 
