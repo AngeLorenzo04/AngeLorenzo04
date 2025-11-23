@@ -4,16 +4,16 @@
 ---
 
 ## 🌐 About Me
-- 🎓 Studying **Computer Engineering** at [Unimore](https://www.unimore.it/)  
-- 💡 Interested in **software development, algorithms, AI and systems**  
-- 🚀 Always looking for new challenges and opportunities to grow  
-- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/angelo-lorenzo-di-candia-92497b330/)**  
+- 🎓 Studying **Computer Engineering** at [Unimore](https://www.unimore.it/)
+- 💡 Interested in **software development, algorithms, AI and systems**
+- 🚀 Always looking for new challenges and opportunities to grow
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/angelo-lorenzo-di-candia-92497b330/)**
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeLorenzo04&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AngeLorenzo04&show_icons=true&theme=tokyonight&include_all_commits=true" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLorenzo04&layout=compact&theme=tokyonight" alt="langs" height="180"/>
 </p>
 
