@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeLorenzo04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLorenzo04&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AngeLorenzo04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Angelo's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeLorenzo04&layout=compact&theme=tokyonight" alt="Angelo's Top Languages" height="180"/>
 </p>
 
 ---
