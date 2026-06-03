@@ -7,7 +7,6 @@
 - 🎓 Studying **Computer Engineering** at [Unimore](https://www.unimore.it/) and preparing for an upcoming Erasmus at the **University of Zaragoza** 🇪🇸
 - 👔 Currently serving as **Secretary General & IT Manager** at **JEMORE**
 - 💻 Building full-stack web applications and managing databases (**Next.js, React, TypeScript, PostgreSQL, Supabase**)
-- 🧠 Deeply interested in **Quantum Computing** (Qiskit, PennyLane) and applying algorithms to solve complex problems (ask me about my chess-solving algorithms! ♟️)
 - 🐧 Proud **Linux** user (Arch/Ubuntu) and workflow automation geek
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/angelo-lorenzo-di-candia-92497b330/)**
 
