@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngeLorenzo04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" height="180"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngeLorenzo04&layout=compact&theme=tokyonight" alt="langs" height="180"/>
 </p>
----
+
 
 ## 🐍 Contribution Snake
 <picture>
@@ -32,10 +32,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## ✨ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
-</p>
