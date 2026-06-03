@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelo Lorenzo</h1>
-<h3 align="center">🎓 Computer Engineering Student | ⚙️ IT Manager @ JEMORE | ⚛️ Quantum & Full-Stack Enthusiast</h3>
+<h3 align="center">🎓 Computer Engineering Student | ⚙️ Secretary General @ JEMORE </h3>
 
 ---
 
